@@ -1,5 +1,5 @@
 code-reviewers:
-    - ROSE
-      github-user: rose-compiler
-    - Justin Too
-      github-user: doubleotoo
+    - name         : ROSE
+      github-user  : rose-compiler
+    - name         : Justin Too
+      github-user  : doubleotoo
